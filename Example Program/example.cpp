@@ -10,7 +10,8 @@ int main()
     // Output and input
     cout << "Hello, what is your name? ";
     cin >> name;
-
+	cout << "just kidding i dont care ";
+	
     cout << "What is your favorite color? ";
     cin >> color;
 
