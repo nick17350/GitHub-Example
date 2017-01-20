@@ -31,7 +31,7 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="../example.cpp" />
+		<Unit filename="../nick.cpp" />
 		<Extensions>
 			<code_completion />
 			<debugger />
