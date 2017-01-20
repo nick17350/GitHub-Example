@@ -5,14 +5,14 @@ using namespace std;
 int main()
 {
     // Variable declarations
-    string name, color;
+    string name, colors;
 
     // Output and input
     cout << "Hello, what is your name? ";
     cin >> name;
 
     cout << "What is your favorite color? ";
-    cin >> color;
+    cin >> colors;
 
     cout << endl;
     cout << "So can I call you " << color << " " << name << "?" << endl;
